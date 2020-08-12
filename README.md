@@ -5,6 +5,10 @@
 
 ## Albatross for Twitter
 
+## Link Preview
+
+[Link Preview](https://github.com/NickM-27/LinkPreview) is an open source library that is an Android view which can accept a String and parse any links that are contained in it and then show an image and the article title and link to easily show a user where a link leads.
+
 ## Texpert & Texpert Sync
 
 ## Others...
