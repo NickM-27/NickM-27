@@ -1,4 +1,5 @@
-### Hi there 👋 I am a mobile developer (Android, Flutter, iOS) who is very passionate about what he does and loves creating new and useful things that people enjoy to use!
+### Hi there 👋 
+### I am a mobile developer (Android, Flutter, iOS) who is very passionate about what he does and loves creating new and useful things that people enjoy to use!
 
 # My Projects
 
