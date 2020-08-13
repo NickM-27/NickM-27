@@ -31,11 +31,13 @@ Texpert is an Android SMS client which adds high value features like scheduled m
 
 <br/>
 
-## Others...
-
 # Where I have worked
 
-## Fitplan Technologies
+I have a handful of years of experience.
+
+## Fitplan Technologies (May 2019 - Present)
+
+Fitplan is a tech startup where I am an Android / Mobile engineer.
 
 # My social accounts
 
