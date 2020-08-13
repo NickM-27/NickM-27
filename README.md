@@ -5,7 +5,7 @@
 
 ## Albatross for Twitter
 
-![Albatross For Twitter](./app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png)
+![Albatross For Twitter](./icons/ic_albatross.png)
 
 ## Link Preview
 
