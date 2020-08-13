@@ -5,7 +5,7 @@
 
 ## Albatross for Twitter
 
-<img align="left" src="./icons/ic_albatross.png" />
+<img align="left" src="https://github.com/NickM-27/NickM-27/blob/master/icons/ic_albatross.png" />
 
 <br/>
 <br/>
