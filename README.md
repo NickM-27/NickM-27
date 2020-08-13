@@ -1,9 +1,11 @@
 ### Hi there 👋 
 ### I am a mobile developer (Android, Flutter, iOS) who is very passionate about what he does and loves creating new and useful things that people enjoy to use!
 
-# My Projects
+# My Favorite Projects
 
 ## Albatross for Twitter
+
+![Albatross For Twitter](./app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png)
 
 ## Link Preview
 
