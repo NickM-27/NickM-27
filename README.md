@@ -7,6 +7,8 @@
 
 ![Albatross For Twitter](./icons/ic_albatross.png) Albatross for Twitter is a clean Twitter client which contains many unique features that add value to the typical Twitter experience.
 
+<br/>
+
 ## Link Preview
 
 [Link Preview](https://github.com/NickM-27/LinkPreview) is an open source library that is an Android view which can accept a String and parse any links that are contained in it and then show an image and the article title and link to easily show a user where a link leads.
