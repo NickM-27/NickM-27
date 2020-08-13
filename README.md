@@ -10,7 +10,7 @@
 <br/>
 <br/>
 
-Albatross for Twitter is a clean Twitter client which contains many unique features that add value to the typical Twitter experience.
+Albatross for Twitter is a clean Twitter client for Android and iOS which contains many unique features that add value to the typical Twitter experience. It is inspired by material design and is very intuitive to use while also being quite versatile and customizable to fit your style of browsing Twitter.
 
 <br/>
 
@@ -19,6 +19,15 @@ Albatross for Twitter is a clean Twitter client which contains many unique featu
 [Link Preview](https://github.com/NickM-27/LinkPreview) is an open source library that is an Android view which can accept a String and parse any links that are contained in it and then show an image and the article title and link to easily show a user where a link leads.
 
 ## Texpert & Texpert Sync
+
+<img align="left" src="https://github.com/NickM-27/NickM-27/blob/master/icons/ic_texpert.png" />
+
+<br/>
+<br/>
+
+Texpert is an Android SMS client which adds high value features like scheduled messages and machine learning informed suggestions into a clean material design SMS client. Texpert Sync adds on to the experience by letting you text from your other Android and iOS devices without needing to get your phone from the other room.
+
+<br/>
 
 ## Others...
 
