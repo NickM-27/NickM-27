@@ -8,10 +8,10 @@
 <img align="left" src="./icons/ic_albatross.png" />
 
 <br/>
+<br/>
 
 Albatross for Twitter is a clean Twitter client which contains many unique features that add value to the typical Twitter experience.
 
-<br/>
 <br/>
 
 ## Link Preview
