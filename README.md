@@ -3,6 +3,8 @@
 
 # My Favorite Projects
 
+I have released quite a few apps on both the App Store and Google Play. There are too many to cover here but below are some of my favorite projects that I have worked on which show what I am all about.
+
 ## Albatross for Twitter
 
 <img align="left" src="https://github.com/NickM-27/NickM-27/blob/master/icons/ic_albatross.png" />
