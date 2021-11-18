@@ -34,8 +34,12 @@ Texpert is an Android SMS client which adds high value features like scheduled m
 # Where I have worked
 
 I have a handful of years of experience.
+  
+## ADT - Senior Android Developer (October 2020 - Present)
+  
+I work with many teams on lots of awesome projects including ADT+, ADT Blue, ADT Pulse
 
-## Fitplan Technologies (May 2019 - Present)
+## Fitplan Technologies - Mid Level Android Developer (May 2019 - November 2020)
 
 Fitplan is a tech startup where I am an Android / Mobile engineer.
 
