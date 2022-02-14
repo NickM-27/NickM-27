@@ -33,7 +33,7 @@ Texpert is an Android SMS client which adds high value features like scheduled m
 
 # Where I have worked
 
-I have a handful of years of experience.
+I have many years of experience.
   
 ## ADT - Senior Android Developer (October 2020 - Present)
   
