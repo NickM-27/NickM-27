@@ -3,7 +3,7 @@
 
 # My Favorite Projects
 
-I have released quite a few apps on both the App Store and Google Play. There are too many to cover here but below are some of my favorite projects that I have worked on which show what I am all about. I also love home automation and have contributed to a number of projects / integrations related to HomeAssistant.
+I have released quite a few apps on both the App Store and Google Play. There are too many to cover here but below are some of my favorite projects that I have worked on which show what I am all about. I also love home automation and have contributed to a number of projects / integrations including [Frigate](https://github.com/blakeblackshear/frigate) || [Home-Assistant](https://github.com/home-assistant/core) || [Home-Assistant Android](https://github.com/home-assistant/android)
 
 ## Albatross for Twitter
 
