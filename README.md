@@ -1,5 +1,5 @@
 ### Hi there 👋  I'm Nick
-<b> I am a mobile developer (Android, Flutter, iOS) who is very passionate about what he does and loves creating new and useful things that people enjoy to use! <b/>
+<b> I am a mobile (Android, Flutter, iOS) & python (Docker, HomeAssistant) developer who is very passionate about what he does and loves creating new and useful things that people enjoy to use! <b/>
 
 # My Favorite Projects
 
@@ -21,6 +21,18 @@ Albatross for Twitter is a clean Twitter client for Android and iOS which contai
 ## Link Preview
 
 [Link Preview](https://github.com/NickM-27/LinkPreview) is an open source library that is an Android view which can accept a String and parse any links that are contained in it and then show an image and the article title and link to easily show a user where a link leads.
+  
+## Swatch
+  
+<img align="left" height="120" src="https://github.com/NickM-27/swatch/blob/main/assets/swatch.png" />
+  
+<br/>
+<br/>
+
+Color detection in images to capture presence of known objects.
+  
+<br/>
+<br/>
 
 ## Texpert & Texpert Sync
 
