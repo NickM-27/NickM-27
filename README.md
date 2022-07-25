@@ -3,15 +3,23 @@
 
 # My Favorite Projects
 
-I have released quite a few apps on both the App Store and Google Play. There are too many to cover here but below are some of my favorite projects that I have worked on which show what I am all about. 
+I am a mobile & full stack develop. I contribute to a handful of open source projects related to Home Automation / AI and also have released quite a few apps on both the App Store and Google Play. Below are my favorite projects that I have worked on which show what I am all about. 
 
-I also love home automation and am an active contributor to a number of projects including [Frigate](https://github.com/blakeblackshear/frigate) || [Frigate-HomeAssistant](https://github.com/blakeblackshear/frigate-hass-integration) || [Home-Assistant](https://github.com/home-assistant/core) || [Home-Assistant Android](https://github.com/home-assistant/android)
+## Frigate
+
+<img align="left" height="120" src="https://user-images.githubusercontent.com/14866235/180851042-d08083bc-703c-40c6-b0c5-68da3408af3d.png" />
+
+<br/>
+
+[Frigate](https://github.com/blakeblackshear/frigate) is an AI Network Video Recorder deployed via docker and written in Python. I am an active contributor and have really enjoyed working on this project. I also contribute to the[Frigate-HomeAssistant Integration](https://github.com/blakeblackshear/frigate-hass-integration).
+
+<br/>
+<br/>
 
 ## Albatross for Twitter
 
 <img align="left" src="https://github.com/NickM-27/NickM-27/blob/master/icons/ic_albatross.png" />
 
-<br/>
 <br/>
 
 Albatross for Twitter is a clean Twitter client for Android and iOS which contains many unique features that add value to the typical Twitter experience. It is inspired by material design and is very intuitive to use while also being quite versatile and customizable to fit your style of browsing Twitter.
