@@ -3,7 +3,7 @@
 
 # My Favorite Projects
 
-I am a mobile & full stack develop. I contribute to a handful of open source projects related to Home Automation / AI and also have released quite a few apps on both the App Store and Google Play. Below are my favorite projects that I have worked on which show what I am all about. 
+I am a mobile & full stack developer. I contribute to a handful of open source projects related to Home Automation / AI and also have released quite a few apps on both the App Store and Google Play. Below are my favorite projects that I have worked on which show what I am all about. 
 
 ## Frigate
 
