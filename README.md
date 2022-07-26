@@ -11,7 +11,7 @@ I am a mobile & full stack develop. I contribute to a handful of open source pro
 
 <br/>
 
-[Frigate](https://github.com/blakeblackshear/frigate) is an AI Network Video Recorder deployed via docker and written in Python. I am an active contributor and have really enjoyed working on this project. I also contribute to the[Frigate-HomeAssistant Integration](https://github.com/blakeblackshear/frigate-hass-integration).
+[Frigate](https://github.com/blakeblackshear/frigate) is an AI Network Video Recorder deployed via docker and written in Python. I am an active contributor and have really enjoyed working on this project. I also contribute to the [Frigate-HomeAssistant Integration](https://github.com/blakeblackshear/frigate-hass-integration).
 
 <br/>
 <br/>
