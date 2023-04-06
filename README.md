@@ -1,5 +1,7 @@
 ### Hi there 👋  I'm Nick
-<b> I am a mobile (Android, Flutter, iOS) & python (Docker, HomeAssistant) developer who is very passionate about what he does and loves creating new and useful things that people enjoy to use! <b/>
+<b> I am a mobile (Android, Flutter, iOS), Docker & python developer who is very passionate about what he does and loves creating new and useful things that people enjoy to use! <b/>
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickM-27&show_icons=true&theme=transparent&hide=stars)
 
 # My Favorite Projects
 
