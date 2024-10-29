@@ -66,7 +66,7 @@ I have many years of experience.
   
 ## ADT - Senior Android Developer (October 2020 - Present)
   
-I work with many teams on lots of awesome projects including ADT+, ADT Blue, ADT Pulse
+I work with many teams on lots of awesome projects including ADT+, ADT Trusted Neighbor, Google Integration, ADT Blue, ADT Pulse, etc.
 
 ## Fitplan Technologies - Mid Level Android Developer (May 2019 - November 2020)
 
