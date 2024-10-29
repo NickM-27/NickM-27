@@ -2,9 +2,21 @@
 <b> I am a software developer who is very passionate about what he does and loves creating new and useful things that people enjoy to use! <b/>
 
 I have a breadth of experience in writing software:
-- Mobile (Android, Flutter, iOS)
-- React.JS / CSS
-- Docker & Python
+- Mobile Development
+  - Android Development
+  - Kotlin
+  - Jetpack Compose
+  - Flutter Multi Platform Apps
+- Web Development
+  - React
+  - TailwindCSS
+- Backend Development
+  - Python
+  - FFmpeg
+- Machine Learning Implementation
+  - Python
+  - ONNX
+  - TFLite
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickM-27&show_icons=true&theme=transparent&hide=stars)
 
