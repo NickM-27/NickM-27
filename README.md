@@ -1,6 +1,8 @@
 ### Hi there 👋  I'm Nick
 <b> I am a software developer who is very passionate about what he does and loves creating new and useful things that people enjoy to use! <b/>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickM-27&show_icons=true&theme=transparent&hide=stars)
+
 I have a breadth of experience in writing software:
 - Mobile Development
   - Android Development
@@ -17,12 +19,10 @@ I have a breadth of experience in writing software:
   - Python
   - ONNX
   - TFLite
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickM-27&show_icons=true&theme=transparent&hide=stars)
 
 # My Favorite Projects
 
-I am a mobile & full stack developer. I contribute to a handful of open source projects related to Home Automation / AI and also have released quite a few apps on both the App Store and Google Play. Below are my favorite projects that I have worked on which show what I am all about. 
+I am a mobile & full stack developer. I contribute to a handful of open source projects related to AI / Home Automation and also have released quite a few apps on both the App Store and Google Play. Below are my favorite projects that I have worked on which show what I am all about. 
 
 ## Frigate
 
@@ -76,13 +76,20 @@ Texpert is an Android SMS client which adds high value features like scheduled m
 
 I have many years of experience.
   
-## ADT - Senior Android Developer (October 2020 - Present)
+## ADT - Senior Android Developer (October 2020 - October 2024)
   
-I work with many teams on lots of awesome projects including ADT+, ADT Trusted Neighbor, Google Integration, ADT Blue, ADT Pulse, etc.
+- Lead successful projects including integrating:
+  - Google Nest: Device & Familiar Face APIs, WebRTC & RTSP streaming
+  - ZWave communication: Door lock, garage door, motion sensor, etc.
+- Integrated Glass Break ULE sensor, built POC that was used for UL certification
+- Collaborated with backend team to establish APIs for Google Nest integration
+- Refactored tens of thousands of lines of code from Java/XML to Kotlin/Compose
+- Implemented Figma designs via XML and Jetpack compose
 
 ## Fitplan Technologies - Mid Level Android Developer (May 2019 - November 2020)
 
-Fitplan is a tech startup where I am an Android / Mobile engineer.
+- Implemented an SDK to allow posts and comments among users
+- Solely responsible for implementing Figma designs and developing internal workout builder used by professional athletes and trainers to create their own workouts.
 
 # My social accounts
 
