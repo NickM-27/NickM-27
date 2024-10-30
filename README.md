@@ -91,12 +91,6 @@ I have many years of experience.
 - Implemented an SDK to allow posts and comments among users
 - Solely responsible for implementing Figma designs and developing internal workout builder used by professional athletes and trainers to create their own workouts.
 
-# My social accounts
-
-- [Facebook](https://www.facebook.com/nick.mowen.52)
-- [LinkedIn](https://www.linkedin.com/in/nicolas-mowen/)
-- [Twitter](https://twitter.com/nick_mowen)
-
 # If you want to support what I do
 
 If you would like to make a donation to support development, please use [GitHub Sponsors](https://github.com/sponsors/NickM-27).
