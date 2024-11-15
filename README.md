@@ -8,17 +8,24 @@ I have a breadth of experience in writing software:
   - Android Development
   - Kotlin
   - Jetpack Compose
+  - Unit Testing / Espressio UI Testing
   - Flutter Multi Platform Apps
 - Web Development
   - React
   - TailwindCSS
+  - Typescript
+  - Javascript
 - Backend Development
   - Python
   - FFmpeg
+  - NGINX
 - Machine Learning Implementation
   - Python
   - ONNX
   - TFLite
+- CI/CD
+  - Docker multi platform builds
+  - GitHub Actions
 
 # My Favorite Projects
 
