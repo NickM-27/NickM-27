@@ -95,8 +95,9 @@ I have many years of experience.
 
 ## Fitplan Technologies - Mid Level Android Developer (May 2019 - November 2020)
 
-- Implemented an SDK to allow posts and comments among users
-- Solely responsible for implementing Figma designs and developing internal workout builder used by professional athletes and trainers to create their own workouts.
+- Collaborated with cross-functional teams to integrate social media SDK to allow posts and comments among users, leading to 100% increase in app engagement
+- Spearheaded the implementation of Figma designs and developed an internal workout builder, empowering over 100 professional athletes and trainers to personalize and optimize their workout routines.
+- Led Agile project management initiatives using Jira and Confluence, resulting in the timely delivery of high-quality software solutions.
 
 # If you want to support what I do
 
