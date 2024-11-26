@@ -86,12 +86,15 @@ I have many years of experience.
 ## ADT - Senior Android Developer (October 2020 - October 2024)
   
 - Lead successful projects including integrating:
-  - Google Nest: Device & Familiar Face APIs, WebRTC & RTSP streaming
+  - Google Nest: Device & Familiar Face REST / GRAPHQL APIs, WebRTC streaming
   - ZWave communication: Door lock, garage door, motion sensor, etc.
 - Integrated Glass Break ULE sensor, built POC that was used for UL certification
 - Collaborated with backend team to establish APIs for Google Nest integration
-- Refactored tens of thousands of lines of code from Java/XML to Kotlin/Compose
+- Refactored complex codebase from Java / XML to Kotlin / Jetpack Compose
 - Implemented Figma designs via XML and Jetpack compose
+- Created multiple Android libraries hosted using AWS artifactory
+- Led Agile project management initiatives using Jira and Confluence, resulting in the
+timely delivery of high-quality software solutions.
 
 ## Fitplan Technologies - Mid Level Android Developer (May 2019 - November 2020)
 
