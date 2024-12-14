@@ -106,6 +106,6 @@ timely delivery of high-quality software solutions.
 
 # If you want to support what I do
 
-If you would like to make a donation to support development, please use [GitHub Sponsors](https://github.com/sponsors/NickM-27).
+<a href="https://github.com/sponsors/NickM-27" target="_blank"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" alt="GitHub Sponsor" style="height: 51px !important; width: 217 !important;"></a>
 
 <a href="https://www.buymeacoffee.com/jTsYwF4mR" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
