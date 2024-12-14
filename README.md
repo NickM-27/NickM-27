@@ -81,8 +81,6 @@ Texpert is an Android SMS client which adds high value features like scheduled m
 
 # Where I have worked
 
-I have many years of experience.
-
 ## Raptive - Software Engineer II (December 2024 - Present)
 
 - Working on the Creator Tools team
