@@ -21,7 +21,7 @@ I have a breadth of experience in writing software:
   - FFmpeg
   - NGINX
   - Typescript
-  - NodeJS
+  - Node.js
 - Machine Learning Implementation
   - Python
   - ONNX
