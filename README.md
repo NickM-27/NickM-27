@@ -12,6 +12,7 @@ I have a breadth of experience in writing software:
   - Flutter Multi Platform Apps
 - Web Development
   - React
+  - Angular
   - TailwindCSS
   - Typescript
   - Javascript
