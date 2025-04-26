@@ -20,6 +20,8 @@ I have a breadth of experience in writing software:
   - Python
   - FFmpeg
   - NGINX
+  - Typescript
+  - NodeJS
 - Machine Learning Implementation
   - Python
   - ONNX
