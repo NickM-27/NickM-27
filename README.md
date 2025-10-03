@@ -25,7 +25,11 @@ I have a breadth of experience in writing software:
 - Machine Learning Implementation
   - Python
   - ONNX
-  - TFLite
+  - Tensorflow
+- Database Management
+  - PostgreSQL
+  - Snowflake
+  - SQLite
 - CI/CD
   - Docker multi platform builds
   - GitHub Actions
