@@ -1,7 +1,7 @@
 ### Hi there 👋  I'm Nick
 <b> I am a software developer who is very passionate about what he does and loves creating new and useful things that people enjoy to use! <b/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickM-27&show_icons=true&theme=transparent&hide=stars)
+![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickM-27&show_icons=true&theme=transparent&hide=stars)
 
 I have a breadth of experience in writing software:
 - Mobile Development
